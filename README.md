@@ -79,7 +79,7 @@ print(f"Predicted Disease: {predicted_class}")
 ## 📁 Project Structure
 
 ```
-Crop-Disease/
+AI-Powered-Crop-Disease-Detection/
 ├── Model.ipynb              # Main training notebook
 ├── test_images/             # Sample test images
 │   ├── test_apple_black_rot.JPG
